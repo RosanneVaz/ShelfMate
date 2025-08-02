@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Ignore node modules
+node_modules/
+
+# Ignore auth secrets
+AUTH/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
